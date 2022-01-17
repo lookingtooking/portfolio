@@ -111,7 +111,7 @@ nav {
 /* HERO */
 
 .hero-container {
-    background-image: url('/assets/img/header-bg.jpg');
+    background-image: url(assets/img/header-bg.jpg);
     background-position: center -77px;
     background-repeat: no-repeat;
     height: 835px;
