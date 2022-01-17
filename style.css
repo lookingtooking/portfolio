@@ -83,7 +83,7 @@ nav {
 .header-container {
     padding-top: 5px;
     display: flex;
-    background: url('assets/img/header-bg.jpg');
+    background: url(assets/img/header-bg.jpg);
     background-repeat: no-repeat;
     background-position: center -8px;
 }
